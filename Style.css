@@ -1,0 +1,30 @@
+.circular--portrait{ 
+position: relative; 
+align-content: center;
+width: 229px; 
+height: 228px; 
+overflow: hidden;
+border-radius: 229px; } 
+.circular--portrait img { 
+width: 100%; height: auto; 
+}
+div.Sunflowers{
+opacity: 10%;
+width: 329px;
+height: 329px;
+border-radius: 329px;
+float:right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
